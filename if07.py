@@ -27,3 +27,4 @@ def main(temp):
         return "Very Hot"
 print(main(-62))
 
+
